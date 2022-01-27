@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637482859 source:c:\users\himas\desktop\simplex method for standard form\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
